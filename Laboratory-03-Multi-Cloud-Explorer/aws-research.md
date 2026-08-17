@@ -31,4 +31,4 @@ AWS can be used for websites, mobile applications, databases, data storage, back
 
 ## Screenshot
 
-AWS Official Website
+![AWS Official Website](aws-screenshot.png)
