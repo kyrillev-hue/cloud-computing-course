@@ -31,4 +31,4 @@ Google Cloud can be used for artificial intelligence, data analysis, websites, a
 
 ## Screenshot
 
-Google Cloud Official Website
+![Google Cloud Official Website](gcp-screenshot.png)
