@@ -25,3 +25,15 @@ Google Cloud is a strong choice for the research company because it provides ser
 AWS is a suitable choice for the global e-commerce company because it provides scalable infrastructure and services designed for highly available applications. The company can distribute its application across multiple locations and automatically adjust resources as demand changes. This can help support customers around the world during periods of high traffic. Useful services include Amazon EC2, Elastic Load Balancing, and Amazon S3.
 
 Add client recommendations
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | Wide range of services and scalable infrastructure |
+| Enterprise Organization | AWS | Broad enterprise services and global infrastructure |
+| Microsoft Environment | Azure | Strong Microsoft integration |
+| AI / Machine Learning | Google Cloud | Strong AI and machine learning services |
+| Kubernetes Deployment | Google Cloud | Strong Kubernetes support through Google Kubernetes Engine |
+| Global Web Application | AWS | Scalable services and global infrastructure |
+
