@@ -31,4 +31,4 @@ Azure can be used for business applications, virtual machines, databases, cloud 
 
 ## Screenshot
 
-Microsoft Azure Official Website
+![Microsoft Azure Official Website](azure-screenshot.png)
