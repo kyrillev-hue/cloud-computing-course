@@ -1,0 +1,9 @@
+# Mission Reflection
+
+Among AWS, Azure, and GCP, the cloud platform that impressed me the most was AWS. I found AWS interesting because it offers many different services that can be used for computing, storage, databases, networking, and other cloud needs. While exploring the three platforms, I also realized that AWS, Azure, and GCP have many similarities. All three provide cloud computing services, virtual machines, storage, networking, security features, and tools that can help businesses manage their applications and data without having to maintain everything on physical servers.
+
+I learned that business requirements have a big influence on which cloud platform a company should choose. A business needs to consider its budget, security requirements, performance, existing systems, scalability, and the type of services it needs. Because of this, there is no single cloud provider that is always the best for every business. The right choice depends on the specific needs and goals of the client.
+
+Acting as a Cloud Solutions Consultant helped me understand that choosing a cloud provider is not simply about picking the most popular platform. I had to compare different services and think about what would actually be useful for a particular client. This activity also helped me understand how cloud computing can be applied to real business situations.
+
+My GitHub Cloud Computing Portfolio has also improved during this activity. I learned how to organize research, screenshots, comparisons, recommendations, and Linux investigation results in one repository. I became more comfortable uploading files, editing README files, and committing changes to GitHub. Overall, this mission gave me a better understanding of cloud platforms and helped me develop practical skills that I can use in future IT projects.
